@@ -179,7 +179,8 @@ Plusieurs solutions ont été proposées :
   - analyse du problème
   - recommandations
 
-👉 Fichier : `presentation.pptx` 
+👉 Fichier : `presentation_powerpoint.pdf` 
+
 
 ---
 
@@ -192,7 +193,7 @@ Plusieurs solutions ont été proposées :
   - recommandations
   - plan d’action
 
-👉 Fichier : `rapport-audit.pdf` 
+👉 Fichier : `rapport_audit.pdf` 
 
 ---
 
