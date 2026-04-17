@@ -1,4 +1,4 @@
-🇫🇷 Français | [🇬🇧 English](README_ENG.md)
+🇫🇷 Français | readme in english 👉 [🇬🇧 English](README_ENG.md)
 # 🏪 SuperSmartMarket – Audit d’un Environnement de Données
 
 Projet réalisé dans le cadre de la formation **Data Engineer – OpenClassrooms**.
